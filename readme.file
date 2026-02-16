@@ -1,0 +1,30 @@
+# BLACKJACK GAME
+
+THIS is a simple version of a blackjack game.Icode it with **HTML**, **CSS** and **JAVASCRIPT**. In this i learn how to use objact, array and if-else statement.
+
+-----
+##   HOW TO PLAY...
+
+1-  If card sum is 21 you win .
+2-  If its less than 21 you click 'NEW CARD' button to get new    card, to get closer to 21.if its more than 21 you loose. 
+3-  The game end when you either win or lose. 
+
+----
+
+## FEATURE  
+
+1-   button-1 to start a game 
+2-   button-2 to get a new cards
+3-   message came toshow you what you got .
+
+-----
+
+# Technology used 
+
+1- **HTML**                          for structure
+2- **CSS**                           for styling
+3- **Java Script**                   for logic
+
+----
+
+# How to run 
